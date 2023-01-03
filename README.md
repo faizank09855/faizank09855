@@ -2,17 +2,16 @@
 
 <img src="https://github.com/DevStack06/images/blob/master/My%20Video.gif" alt="side Image" align="center" width="1000" height="auto" />
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=DevStack06.DevStack06&color=00cf00)
-[![Instagram Badge](https://img.shields.io/badge/-DevStack06-yellow?style=flat-square&logo=instagram&logoColor=black&link=https://www.instagram.com/devstack06/)](https://www.instagram.com/devstack06/)
+
+[![Instagram Badge](https://img.shields.io/badge/-DevStack06-yellow?style=flat-square&logo=instagram&logoColor=black&link=https://www.instagram.com/its_faizan__king/)](https://www.instagram.com/its_faizan__king/)
 
 Common get an inital briefing about me here! It's the place where I gotta learn new sorts of things :grin:
 
-- 🔭 I’m currently working on Flutter/React related stuffs :wink:
+- 🔭 I’m currently working on Flutter/Node related stuffs :wink:
 - 🌱 Apart from that, I'm also exploring more over JavaScript and Deep Learning areas
 - 👯 Furthermore, looking to collaborate on JavaScript or Flutter related projects
 - 💬 Mail me for flutter, React, or any App or Web development realted project
 - 📫 Find me here: [LinkeIn](https://in.linkedin.com/in/faizan-khan-a3098221a)
-- ⚡ Fun fact: I have my own YouTube [Channel](http://www.youtube.com/c/DevStack) :wink:
 
 
 ## ⚡ Technologies
