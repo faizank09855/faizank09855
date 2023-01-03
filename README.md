@@ -3,7 +3,7 @@
 <!-- <img src="https://github.com/DevStack06/images/blob/master/My%20Video.gif" alt="side Image" align="center" width="1000" height="auto" /> -->
 
 
-[![Instagram Badge](https://img.shields.io/badge/-DevStack06-yellow?style=flat-square&logo=instagram&logoColor=black&link=https://www.instagram.com/its_faizan__king/)](https://www.instagram.com/its_faizan__king/)
+[![Instagram Badge](https://img.shields.io/badge/-its_faizan__king-yellow?style=flat-square&logo=instagram&logoColor=black&link=https://www.instagram.com/its_faizan__king/)](https://www.instagram.com/its_faizan__king/)
 
 Common get an inital briefing about me here! It's the place where I gotta learn new sorts of things :grin:
 
