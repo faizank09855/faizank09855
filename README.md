@@ -5,6 +5,8 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-its_faizan__king-yellow?style=flat-square&logo=instagram&logoColor=black&link=https://www.instagram.com/its_faizan__king/)](https://www.instagram.com/its_faizan__king/)
 
+[![LinkedIn Badge](https://img.shields.io/badge/-its_faizan__king-yellow?style=flat-square&logo=instagram&logoColor=black&link=https://www.instagram.com/its_faizan__king/)](https://www.instagram.com/its_faizan__king/)
+
 Common get an inital briefing about me here! It's the place where I gotta learn new sorts of things :grin:
 
 - 🔭 I’m currently working on Flutter/Node related stuffs :wink:
