@@ -11,7 +11,7 @@ Common get an inital briefing about me here! It's the place where I gotta learn 
 - 🌱 Apart from that, I'm also exploring more over JavaScript and Deep Learning areas
 - 👯 Furthermore, looking to collaborate on JavaScript or Flutter related projects
 - 💬 Mail me for flutter, React, or any App or Web development realted project
-- 📫 Find me here: [@DevStack06](https://twitter.com/DevStack06)
+- 📫 Find me here: (https://in.linkedin.com/in/faizan-khan-a3098221a)
 - ⚡ Fun fact: I have my own YouTube [Channel](http://www.youtube.com/c/DevStack) :wink:
 
 
