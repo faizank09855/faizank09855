@@ -5,7 +5,7 @@
 
 
 [![Instagram Badge](https://img.shields.io/badge/-its_faizan__king-yellow?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/its_faizan__king/)](https://www.instagram.com/its_faizan__king/)
-[![LinkedIn Badge](https://img.shields.io/badge/-Faizan_Khan-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.instagram.com/its_faizan__king/)](https://www.instagram.com/its_faizan__king/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Faizan_Khan-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/faizan-khan-a3098221a/)](https://www.linkedin.com/in/faizan-khan-a3098221a/)
 
 
 Common get an inital briefing about me here! It's the place where I gotta learn new sorts of things :grin:
