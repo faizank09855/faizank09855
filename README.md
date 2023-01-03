@@ -1,6 +1,6 @@
-<!-- <h1 align="center"> Hey there! I'm Balram Rathore <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h1> -->
+<h1 align="center"> Hey there! I'm Faizan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h1>
 
-<img src="https://github.com/DevStack06/images/blob/master/My%20Video.gif" alt="side Image" align="center" width="1000" height="auto" />
+<!-- <img src="https://github.com/DevStack06/images/blob/master/My%20Video.gif" alt="side Image" align="center" width="1000" height="auto" /> -->
 
 
 [![Instagram Badge](https://img.shields.io/badge/-DevStack06-yellow?style=flat-square&logo=instagram&logoColor=black&link=https://www.instagram.com/its_faizan__king/)](https://www.instagram.com/its_faizan__king/)
@@ -25,6 +25,4 @@ Common get an inital briefing about me here! It's the place where I gotta learn 
 
 ![DevStack's github stats](https://github-readme-stats.vercel.app/api?username=faizank09855)
 
-<!-- <a href="https://www.buymeacoffee.com/DevStack06" target="_blank">
-   <img  align="right" src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
-</a> -->
+
