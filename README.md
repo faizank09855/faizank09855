@@ -28,9 +28,5 @@ Common get an inital briefing about me here! It's the place where I gotta learn 
 
 ![DevStack's github stats](https://github-readme-stats.vercel.app/api?username=faizank09855)
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/faizank09855/count.svg" />
-</p>
 
 
