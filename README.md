@@ -3,7 +3,6 @@
 <!-- <img src="https://github.com/DevStack06/images/blob/master/My%20Video.gif" alt="side Image" align="center" width="1000" height="auto" /> -->
 
 
-
 [![Instagram Badge](https://img.shields.io/badge/-its_faizan__king-yellow?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/its_faizan__king/)](https://www.instagram.com/its_faizan__king/)
 [![LinkedIn Badge](https://img.shields.io/badge/-Faizan_Khan-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/faizan-khan-a3098221a/)](https://www.linkedin.com/in/faizan-khan-a3098221a/)
 
