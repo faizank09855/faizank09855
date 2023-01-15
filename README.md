@@ -25,7 +25,5 @@ Common get an inital briefing about me here! It's the place where I gotta learn 
 ![Firebase](https://img.shields.io/badge/-FireBase-005571?style=flat-square&logo=firebase)
 
 
-![DevStack's github stats](https://github-readme-stats.vercel.app/api?username=faizank09855)
-
 
 
